@@ -1,5 +1,5 @@
 # Facenote
-A simplified version of Facebook built on XAMPP(Apache/MariaDB/PHP/Perl).
+### A simplified version of Facebook built on XAMPP(Apache/MariaDB/PHP/Perl).
 ![Main page](/images/1.png)
 <img src="/images/3.png" width="400" height="600"> <img src="/images/2.png" width="350" height="600">
 # Features!
